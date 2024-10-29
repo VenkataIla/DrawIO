@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-07-24T14:08:24.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sdFPoVWSaqtEsmsmkuYo" version="24.7.1" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="404" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-0" value="Prime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="140" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-1" value="PARA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="28" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNa0GtHYEyGsjAsGX6pw-2" target="HNa0GtHYEyGsjAsGX6pw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-2" value="What do. you know about this topic?&lt;div&gt;What do you know about the best practices for this?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="160" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-3" value="Augment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNa0GtHYEyGsjAsGX6pw-4" target="HNa0GtHYEyGsjAsGX6pw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-4" value="&lt;div&gt;what questions do you have?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="320" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-5" value="Refersh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="460" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNa0GtHYEyGsjAsGX6pw-6" target="HNa0GtHYEyGsjAsGX6pw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-6" value="What did I forget to ask?&lt;div&gt;What did I overtake on this topic.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="480" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-7" value="Evaluate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="620" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNa0GtHYEyGsjAsGX6pw-8" target="HNa0GtHYEyGsjAsGX6pw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-8" value="Did you fulfil the conditions of the prompt completely&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="640" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-9" value="Asking a model what it knows about a topic does two things.&amp;nbsp;&lt;div&gt;First,&amp;nbsp; it lets you know if you know if you need to provide more data in the prompt because the model doesn&#39;t know something.&lt;/div&gt;&lt;div&gt;Second, it primes the model with tons of relevant text if it does know the topic well, saving you time in prompting; this step can be the context in the RACE framework.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="130" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-11" value="&lt;li data-sourcepos=&quot;13:1-13:122&quot;&gt;&lt;strong&gt;R (Relevant):&lt;/strong&gt;  By asking a general question, you guide the LLM towards relevant information within its vast dataset.&lt;/li&gt;&lt;li data-sourcepos=&quot;14:1-14:36&quot;&gt;&lt;strong&gt;A (Answer):&lt;/strong&gt; The LLM&#39;s response to your initial question serves as a starting point for understanding its knowledge base on the topic.&lt;/li&gt;&lt;li data-sourcepos=&quot;15:1-15:146&quot;&gt;&lt;strong&gt;C (Challenge):&lt;/strong&gt;  Armed with this context, you can then formulate more specific prompts (challenges) that leverage the LLM&#39;s primed knowledge.&lt;/li&gt;&lt;li data-sourcepos=&quot;16:1-17:0&quot;&gt;&lt;strong&gt;E (Explanation):&lt;/strong&gt; The LLM&#39;s responses to your subsequent prompts (explanations) will likely be more accurate and insightful due to the context established in the initial question.&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="140" width="980" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-12" value="Asking the model if it has any questions helps create thorough results by filling in knowledge gaps in both the model&#39;s response and our prompt. Use this at the end of your initial prompt after asking a model what it knows." style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="325" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-14" value="Asking the model what you forgot is done after the model&#39;s response to your questions. This again gives the model a chance to clarify and add much more relevant text, as well as referesh our own memories abou the topic for additional followup and clarification.&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="485" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HNa0GtHYEyGsjAsGX6pw-16" value="Asking a model to evaluate its work helps refine responses and should be done after the model&#39;s main response. especially if it&#39;s worng. Rather thank starting a new session, this can help get things back on track while keeping the valuable session history intact.&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="645" width="370" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

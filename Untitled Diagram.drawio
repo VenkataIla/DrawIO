@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Page-1" id="Xk_I8UfBYTYDH2sRpORs">
+    <mxGraphModel dx="1554" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H_Dovz3La-3I74fEJIOs-31" value="AWS Provider" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="730" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-32" value="AWS Instance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1060" width="109" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-33" value="AWS S3 Bucket" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1166" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-34" value="AWS IAM Role" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="871" y="1268" width="110" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-35" value="AWS IAM Instance Profile" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1160" width="191" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-36" value="AWS IAM Role Policy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="1166" width="157" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-37" value="AWS Security Group for App" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1268" width="212" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-38" value="AWS DB Instance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1050" width="133" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-39" value="AWS Security Group for DB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1166" width="205" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="1039" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="72" y="1039" />
+              <mxPoint x="72" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.17;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="815" y="1039" />
+              <mxPoint x="815" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.39;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="1039" />
+              <mxPoint x="890" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="1039" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.09;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="1039" />
+              <mxPoint x="202" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="1039" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.36;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-31" target="H_Dovz3La-3I74fEJIOs-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1039" />
+              <mxPoint x="380" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-48" value="User Data" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.58;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-32" target="H_Dovz3La-3I74fEJIOs-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="127" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-49" value="IAM Instance Profile" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-32" target="H_Dovz3La-3I74fEJIOs-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1047" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-50" value="Security Group" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.21;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-32" target="H_Dovz3La-3I74fEJIOs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="1131" />
+              <mxPoint x="275" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-51" value="Assume Role Policy" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=1;entryY=0.95;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-34" target="H_Dovz3La-3I74fEJIOs-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1258" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-52" value="Role" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-35" target="H_Dovz3La-3I74fEJIOs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-53" value="Policy" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0.97;entryX=1;entryY=0.11;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-36" target="H_Dovz3La-3I74fEJIOs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-54" value="Ingress" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=-0.01;entryX=0.41;entryY=0.97;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-37" target="H_Dovz3La-3I74fEJIOs-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687" y="1233" />
+              <mxPoint x="687" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-55" value="Egress" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=-0.01;entryX=0.62;entryY=0.97;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-37" target="H_Dovz3La-3I74fEJIOs-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="753" y="1233" />
+              <mxPoint x="753" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-56" value="Security Group" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.58;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-38" target="H_Dovz3La-3I74fEJIOs-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-57" value="Ingress" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=0.97;entryX=0.39;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-39" target="H_Dovz3La-3I74fEJIOs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-58" value="Egress" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.97;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H_Dovz3La-3I74fEJIOs-39" target="H_Dovz3La-3I74fEJIOs-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-59" value="Person" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="160" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-60" value="-name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-61" value="-birthDate: Date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-62" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="78" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-63" value="+getName(): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-64" value="+setName(String): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="112" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-65" value="+isBirthday(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-59">
+          <mxGeometry y="138" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-66" value="Address" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-67" value="-street: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-66">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-68" value="-city: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-66">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Dovz3La-3I74fEJIOs-69" value="-state: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="H_Dovz3La-3I74fEJIOs-66">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

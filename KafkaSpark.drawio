@@ -1,0 +1,273 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1554" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-0" target="Ql-6IgB5Vsrsjdzcjc4l-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-0" value="Kafka: To Understand" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-1" value="There is lots of real time data which needs to be processed in real time&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="50" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-3" value="Kakfa Cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-4" target="Ql-6IgB5Vsrsjdzcjc4l-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-4" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-5" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-6" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-7" target="Ql-6IgB5Vsrsjdzcjc4l-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-7" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ql-6IgB5Vsrsjdzcjc4l-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="230" as="sourcePoint" />
+            <mxPoint x="260" y="315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-8" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-9" target="Ql-6IgB5Vsrsjdzcjc4l-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-9" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-5" target="Ql-6IgB5Vsrsjdzcjc4l-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-16" target="Ql-6IgB5Vsrsjdzcjc4l-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-16" value="Real Problem&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="88" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-18" value="Managing data pipelines and integrated set of requirements in system or server is very difficult" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="88" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-20" value="&lt;b&gt;Solution&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-21" value="Reduce the complexity of data pipelines" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="587" y="190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-22" value="Simple and manageable communication&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="587" y="230" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-23" value="Manage using Async communication for the distribution of message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="268" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-24" value="Reliable communication&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="318" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-25" value="&lt;b&gt;Details:&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="25" y="488" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-26" value="Originated in Linked in - Scala in Java" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="488" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-27" target="Ql-6IgB5Vsrsjdzcjc4l-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-27" value="Broker&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22250%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-28" target="Ql-6IgB5Vsrsjdzcjc4l-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-28" value="Message" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-29" target="Ql-6IgB5Vsrsjdzcjc4l-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-29" value="Topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="683" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-30" value="Kafka brokers are the servers that manage and mediate the conversion between different systems&lt;div&gt;&amp;nbsp; and are responsible for delivery of the messages to the right party&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="199" y="550" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-31" value="Messages are simply byte arrays and any objects can be stored in any format by the developer&amp;nbsp;&lt;div&gt;(string, JSON).&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="620" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-32" value="In Kafka, all the messages are maintained in what we call topics&lt;div&gt;massages are stored, published and organized in Kafka topics&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="693" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-33" target="Ql-6IgB5Vsrsjdzcjc4l-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-33" value="Cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-34" value="In Apache Kafka, more than one broker, that is, a set of servers,, is collectively&amp;nbsp; know as cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="765" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-35" target="Ql-6IgB5Vsrsjdzcjc4l-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-35" value="Producers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-36" target="Ql-6IgB5Vsrsjdzcjc4l-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-36" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-37" value="Producers are the process that publish data or messages to one or more topics,&amp;nbsp;&lt;div&gt;basically the source of the data steaming in the kafka&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="830" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-38" value="Consumer are the processes that read and process&amp;nbsp;&lt;div&gt;the data from topics by subscribing to one or more topics in Kafka cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="900" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-39" target="Ql-6IgB5Vsrsjdzcjc4l-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-39" value="partitions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-40" value="Every broker holds few participants, and each participant can be either a leader or replica for a topic&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="985" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-41" value="&lt;b&gt;Kafka Architecture&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="1088" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-42" target="Ql-6IgB5Vsrsjdzcjc4l-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-42" target="Ql-6IgB5Vsrsjdzcjc4l-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-42" target="Ql-6IgB5Vsrsjdzcjc4l-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-42" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-43" target="Ql-6IgB5Vsrsjdzcjc4l-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-43" target="Ql-6IgB5Vsrsjdzcjc4l-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1360" />
+              <mxPoint x="320" y="1256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ql-6IgB5Vsrsjdzcjc4l-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.06999999999994" y="1187.04" as="targetPoint" />
+            <mxPoint x="250" y="1352.95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-43" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-45" target="Ql-6IgB5Vsrsjdzcjc4l-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-45" target="Ql-6IgB5Vsrsjdzcjc4l-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ql-6IgB5Vsrsjdzcjc4l-45" target="Ql-6IgB5Vsrsjdzcjc4l-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="1130" width="170" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-46" value="Broker 1&lt;div&gt;Topic 1&lt;/div&gt;&lt;div&gt;Partition-0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-47" value="Broker 1&lt;div&gt;Topic 1&lt;/div&gt;&lt;div&gt;Partition-1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-48" value="Broker 1&lt;div&gt;Topic 1&lt;/div&gt;&lt;div&gt;Partition-2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-50" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="615" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-51" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="1245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-52" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="615" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-62" value="Kafka Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="1100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-63" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;the producer will send a message as a topic a regular intervals. , now the broker stores the messages in the partition configured in the particular topic&lt;/p&gt;&lt;p&gt;If the producer sends two messages, and there exist two partitions, then Kafka will store one message in the first partition and a second message in the second partitions&lt;/p&gt;&lt;p&gt;Consumers always subscribe to a specific topic. on receiving the message, the consumer sends an acknowledgment to the broker, on receiving the acknowledgment, the offset will change the new value and update the value in the zookeeper&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="1480" width="630" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-64" value="the producer will send the topic by priority to a specific partition based on the record key&lt;div&gt;on receiving messages, the producer assigns offsets to them&amp;nbsp;&lt;/div&gt;&lt;div&gt;Serve consumers by responding to fetch requests for partitions&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the partitions are stored in different Kafka brokers; If any of the brokers are down in the cluster,&amp;nbsp;&lt;/div&gt;&lt;div&gt;the list of one of the other brokers will act as a leader and service the data&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the topic is nothing but messages, this will be broken down as partitions&amp;nbsp;&lt;/div&gt;&lt;div&gt;that follow the sequence, the portions called Offset&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;each participant will have a number of replicas in the broker&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="155" y="1700" width="530" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-65" value="&lt;b&gt;Apache Spark&lt;/b&gt;: Hadoop product donate to apache&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1918" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-67" value="&lt;b&gt;Apache&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Spark&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-68" value="&lt;b&gt;Real time&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="374" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-69" value="&lt;b&gt;Speed&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-70" value="&lt;b&gt;Polyglot&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-71" value="&lt;b&gt;Powe&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%222020%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;rful caching&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="580" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-72" value="&lt;b&gt;Deployment&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-73" value="&lt;b&gt;RDD&lt;/b&gt; :&amp;nbsp; Resilient (fault-tolerant)&amp;nbsp; distributed data, ( data reside on multiple nodes )&amp;nbsp;&amp;nbsp;&lt;div&gt;it stores the data in in-memory to make more faster and reusable data&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="184" y="2125" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql-6IgB5Vsrsjdzcjc4l-74" value="&lt;b&gt;Component&lt;/b&gt;: support different types of storage, cluster management, engine,&amp;nbsp;&lt;div&gt;support different libraries and it support different programming langueges&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="145" y="2193" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

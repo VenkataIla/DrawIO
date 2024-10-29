@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.15">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2361" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="140" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-0" value="NodeJS is a runtime environment for executing JavaScript code on the server side" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="40" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s1XXfSMBAIbIiNtikyKG-2" target="s1XXfSMBAIbIiNtikyKG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-2" value="Browser" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s1XXfSMBAIbIiNtikyKG-3" target="s1XXfSMBAIbIiNtikyKG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-3" value="JavaScript Engine&lt;div&gt;V8&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-6" value="NodeJS V8 engine can run outside the browser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="160" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-7" value="Javascript runs in inside the browser&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="350" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-8" value="Back-End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="308" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-9" value="&lt;b&gt;Framework and Runtime&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-15" y="518" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-10" value="&lt;b&gt;Runtime Environment&lt;/b&gt;: Primary focus on providing necessary infrastructure for code execution&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-15" y="568" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-12" value="&lt;b&gt;Framework:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="618" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-13" value="Primarily focuses on simplifying the development process&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="618" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-14" value="Nodejs vs Express.js&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s1XXfSMBAIbIiNtikyKG-15" target="s1XXfSMBAIbIiNtikyKG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-15" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-16" value="JS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s1XXfSMBAIbIiNtikyKG-17" target="s1XXfSMBAIbIiNtikyKG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-17" value="Node Js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-19" value="Express JS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-21" value="Framework&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="980" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-24" value="Express.js is a framework is built on top of Node js, and desinged for simplify the process of building web applications and APIs&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="1010" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1XXfSMBAIbIiNtikyKG-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1169" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
